@@ -2,11 +2,11 @@ package run
 
 import (
 	"fmt"
-	horoscope "horoscope_console/api/horoscope"
-	ageUtils "horoscope_console/internal/age_utils"
-	getZodiac "horoscope_console/internal/determine_zodiac_sign"
-	getName "horoscope_console/internal/get_name"
-	greeting "horoscope_console/internal/greeting"
+	horoscope "horoscope/api/horoscope"
+	ageUtils "horoscope/internal/age_utils"
+	getZodiac "horoscope/internal/determine_zodiac_sign"
+	getName "horoscope/internal/get_name"
+	greeting "horoscope/internal/greeting"
 )
 
 func Run() {

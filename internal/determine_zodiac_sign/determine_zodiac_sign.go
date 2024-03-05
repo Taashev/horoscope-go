@@ -1,4 +1,4 @@
-package determinezodiacsign
+package determine_zodiac_sign
 
 // Определяет знак зодиака
 func DetermineZodiacSign(day, month int) string {

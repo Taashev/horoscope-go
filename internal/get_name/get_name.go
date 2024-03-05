@@ -1,4 +1,4 @@
-package getname
+package get_name
 
 import "fmt"
 

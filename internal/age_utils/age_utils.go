@@ -1,4 +1,4 @@
-package ageutils
+package age_utils
 
 import (
 	"fmt"

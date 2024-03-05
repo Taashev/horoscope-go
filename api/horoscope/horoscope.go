@@ -3,7 +3,7 @@ package horoscope
 import (
 	"encoding/xml"
 	"fmt"
-	horoscopeUtils "horoscope_console/internal/horoscope"
+	horoscopeUtils "horoscope/internal/horoscope"
 	"io/ioutil"
 	"net/http"
 )

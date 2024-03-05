@@ -1,6 +1,6 @@
 package main
 
-import app "horoscope_console/cmd/horoscope_console"
+import app "horoscope/cmd/horoscope"
 
 func main() {
 	app.Run()
